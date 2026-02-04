@@ -1,5 +1,7 @@
 # Enough Crashes 💥
 
+中文 | [English](https://github.com/BlackHoleEra-Team/Enough-Crashes/tree/main/README_en.md)
+
 > **一个反向整活的"崩溃优化"模组 - 让崩溃变得有趣！**
 
 ## 📖 介绍
