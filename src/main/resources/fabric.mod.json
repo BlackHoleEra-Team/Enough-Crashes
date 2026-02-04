@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "enoughcrashes",
+  "version": "${version}",
+  "name": "Enough Crashes",
+  "description": "一个反向整活的“崩溃优化”模组。\n\n🎯 功能：挖/放方块、攻击、静止不动时，按概率触发“真·崩溃”。\n⚠️ 警告：会真的崩溃游戏！请备份存档，仅供娱乐！\n😂 内含50+幽默崩溃消息与文言文彩蛋。\n\n――――――――――――――――――――\nA reverse meme \"crash optimization\" mod.\n\n🎯 Features: Triggers real crashes at set probabilities when mining/placing blocks, attacking, or staying idle.\n⚠️ WARNING: Will actually crash the game! Backup your saves, for entertainment only!\n😂 Includes 50+ humorous crash messages with Classical Chinese easter egg.",
+  "authors": [
+    "BlackHoleEraTeam-XingKong1024ovo"
+  ],
+  "contact": {
+    "homepage": "https://blackholera.pages.dev/"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/enoughcrashes/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "team.bhe.enoughcrashes.client.EnoughCrashesClient"
+    ],
+    "main": [
+      "team.bhe.enoughcrashes.Enoughcrashes"
+    ]
+  },
+  "mixins": [
+    "enoughcrashes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+bin/
+local.properties
+.gradle-home/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Minecraft / Fabric
+run/
+.fabric/
+
+# Logs
+logs/
+
+
