@@ -4,6 +4,9 @@
 
 > **一个反向整活的"崩溃优化"模组 - 让崩溃变得有趣！**
 
+### Mod下载地址
+- [Modrinth](https://modrinth.com/mod/enough-crashes) (英文)
+
 ## 📖 介绍
 
 **Enough Crashes** 是 [Not Enough Crashes (NEC)](https://modrinth.com/mod/notenoughcrashes) 模组的反向恶搞版本。如果说 NEC 是为了防止崩溃，那么 Enough Crashes 就是为了 **"有计划的崩溃"**！
@@ -142,16 +145,12 @@ cd enough-crashes
 
 ### 灵感来源
 - [Not Enough Crashes (NEC)](https://modrinth.com/mod/notenoughcrashes) - 反向灵感
-- 所有Minecraft模组开发者社区
 
 ## 📞 联系与支持
 
 ### 问题反馈
 - [GitHub Issues](https://github.com/yourusername/BlackHoleEra-Team/issues)
 - 请附上：Minecraft版本、模组版本、崩溃日志、复现步骤
-
-### Mod下载地址
-- [Modrinth](https://modrinth.com/mod/enough-crashes) (英文)
 
 ## ⚡ 快速开始
 
