@@ -44,6 +44,8 @@ Complete translation in Classical Chinese (lzh.json), experience the charm of an
 - More.....
 
 ### ⚙️ Flexible Configuration System
+
+Just an example:
 ```json
 {
   "current_level": "sometimes",
